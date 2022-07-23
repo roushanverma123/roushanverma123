@@ -1,5 +1,5 @@
 ### Hi there !!👋
-####I'm learning Js as of now!!
+####I'm Enjoying Js as of now!!
 <!--
 **roushanverma123/roushanverma123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
