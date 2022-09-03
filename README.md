@@ -1,4 +1,4 @@
-### HI There👋 I'm Roushan,A Software Engineer👨‍💻, 
+### HI There👋 I'm Roushan, Software Engineer👨‍💻, 
 Currenty working at Infosys as a Specialist Programmer !!😄
 
 <!--😄
