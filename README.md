@@ -1,5 +1,6 @@
-### HI There👋 I'm Roushan, Software Engineer👨‍💻, 
-Currenty working at Infosys as a Specialist Programmer !!😄
+### HI There👋 I'm Roushan, A Software Engineer👨‍💻, 
+working at Infosys as a full-stack Java-Angular developer!!😄
+Excited about all things Cloud Native!!
 
 <!--😄
 **roushanverma123/roushanverma123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
