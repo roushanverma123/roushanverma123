@@ -1,5 +1,5 @@
 ### HI There👋 I'm Roushan, A Software Engineer👨‍💻, 
-working at Infosys as a full-stack Java-Angular developer!!😄
+working as a full-stack developer!!😄
 Excited about all things Cloud Native!!
 
 <!--😄
