@@ -1,6 +1,5 @@
 ### HI There👋 I'm Roushan, A Software Engineer👨‍💻, 
-working as a full-stack developer!!😄
-Excited about all things Cloud Native!!
+Cooking something special!!!
 
 <!--😄
 **roushanverma123/roushanverma123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
